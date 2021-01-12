@@ -105,3 +105,8 @@ input {
 .addButton:hover {
     background-color: #706993;
 }
+
+#destination {
+    padding: 10px;
+    height: 30px;
+}

@@ -51,3 +51,9 @@ function addLI() {
 	}
 }
 
+// Not time to finish this way need to be review later
+
+// function generate() {
+// 	var target = document.getElementsByClassName("checked")
+// document.getElementById('destination').appendChild(target)
+// }
